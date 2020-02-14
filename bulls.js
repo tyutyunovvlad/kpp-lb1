@@ -17,7 +17,7 @@ let randomNumber1 = `${Math.floor(Math.random() * 10)}`,
 
     let randomNumber = randomNumber1 + randomNumber2 + randomNumber3 + randomNumber4; 
 
-console.log(randomNumber);
+// console.log(randomNumber);
 
 
 let userTry = readlineSync.question('start\nTry:');
