@@ -47,7 +47,7 @@ if (n == 13 || m == 15) {
 
 
 setInterval(() => {
-    console.clear();
+    // console.clear();
     for (let i = 0; i < n; i++) {
         for (let j = 0; j < m; j++) {
             let neighbours = 0;
