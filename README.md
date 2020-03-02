@@ -4,4 +4,4 @@
 При запуску запитує розмір дошки
 
 ![screenshoot](./life-screen-1.JPG)
-![screenshoot](./life-screen-2.jpg)
+![screenshoot](./life-screen-2.JPG)
